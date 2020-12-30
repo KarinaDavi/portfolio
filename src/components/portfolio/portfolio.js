@@ -155,7 +155,7 @@ import React, { Component } from 'react'; export default class portfolio extends
               <span className="categories"><i className="fa fa-tag" />Branding</span>
             </div>
             <div className="link-box">
-              <a href="https:tribupablog.herokuapp.com/">Enlace</a>
+              <a href="https://tribupablog.herokuapp.com/">Enlace</a>
               <a className="popup-modal-dismiss">Cerrar</a>
             </div>
           </div>{/* modal-03 End */}
